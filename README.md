@@ -1,5 +1,5 @@
-# IT-Networking-Focused-Projects-
-# IT Networking Repository
+# IT-Networking-Focused-Projects-Repository
+
 
 This repository contains a comprehensive collection of projects related to network infrastructure design, security configurations, and network management practices. Each project showcases practical implementations and advanced configurations using Cisco Packet Tracer and other networking tools. Below are the key categories included in this repository:
 
