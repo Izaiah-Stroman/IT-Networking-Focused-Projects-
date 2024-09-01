@@ -94,6 +94,6 @@ These projects represent in-depth network designs and implementations for corpor
 ---
 
 ### Instructions:
-Each category folder contains PDF documents detailing the projects. These documents provide in-depth explanations of the configurations, setups, and security measures implemented in various network environments. Review the files within each category to gain insights into the networking management and security practices employed.
+Each category contains PDF documents detailing the projects. These documents provide in-depth explanations of the configurations, setups, and security measures implemented in various network environments. Review the files within each category to gain insights into the networking management and security practices employed.
 
 
