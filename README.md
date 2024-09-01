@@ -82,7 +82,7 @@ This section includes a comprehensive wireless network proposal for a hospital e
 
 ---
 
-### 8. Comprehensive Corporate Network Projects
+### 8. Comprehensive Corporate Network Project
 These projects represent in-depth network designs and implementations for corporate environments, addressing both infrastructure and security needs.
 
 - **Key Files:**
